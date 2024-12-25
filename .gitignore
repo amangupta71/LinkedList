@@ -1,0 +1,6 @@
+.gitignore
+
+#Ignore ques.exe
+ques.exe
+
+#other entries
